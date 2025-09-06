@@ -1,0 +1,4 @@
+*.css
+*.log
+*.txt
+!new.txt
